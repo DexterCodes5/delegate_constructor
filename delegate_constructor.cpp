@@ -35,10 +35,7 @@ void d_c(C p) {
 
 int main(){
     C one {"C1", 5, 7};
-    
-    
     C new_c {one};
-    
     new_c.c_n("C2");
     
     C c;
