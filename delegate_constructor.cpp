@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 class C
 {
 private:
